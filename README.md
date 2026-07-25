@@ -33,7 +33,7 @@ Make sure you have Python 3.7+ installed. No external package installations or p
 Clone the repository and launch the application directly:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Idanie/Ray-and-Mirror-Simulator
 cd Ray-and-Mirror-Simulator
 python sun_mirrors_pro.py
 ```
